@@ -1,7 +1,7 @@
 # Python-Study
 一个小白痛苦自学之路
 
-2023/02/23\
+___2023/02/23___\
  &ensp;主要学习了：\
  &ensp; &ensp;1.注释\
  &ensp; &ensp;2.变量\
@@ -9,7 +9,7 @@
  &ensp; &ensp;4.浅谈数据类型\
  &ensp; &ensp;5.浅谈用户交互\
  &ensp; &ensp;6.条件判断\
- 2023/02/24\
+ ___2023/02/24___\
 &ensp;主要学习了：\
  &ensp; &ensp;1.循环语句\
  &ensp; &ensp;2.break和continue\
