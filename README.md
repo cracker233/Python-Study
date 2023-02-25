@@ -158,6 +158,6 @@ while循环：
 &ensp;&ensp;&ensp;&ensp;     print(" " not in s)   not in  判断是否存在\
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     for c in s:     将s中的每一个字符依次赋值给c\
 &ensp;&ensp; 2.判断\
-&ensp;&ensp;&ensp;&ensp;      .startswith("  ")判断开头的字符是否以****，，endswith 结尾是否\
+&ensp;&ensp;&ensp;&ensp;      .startswith("  ")判断开头的字符是否以****，.endswith 结尾是否\
 &ensp;&ensp;&ensp;&ensp;      .isdigit():      判断字符串是否有整数组成，.isdecimal小数
 
