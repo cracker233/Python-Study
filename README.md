@@ -167,7 +167,7 @@ while循环：
 &ensp;&ensp;&ensp; 列表定义：能装东西的东西\
 &ensp;&ensp;&ensp; 在Python中用[]来表示一个列表，列表中的元素用,隔开
 
-&ensp;&ensp;特性：
+&ensp;&ensp;特性：\
 &ensp;&ensp;&ensp;&ensp;   1.列表页和字符串一样，也有索引和切片\
 &ensp;&ensp;&ensp;&ensp;   2.索引如果超出范围会报错\
 &ensp;&ensp;&ensp;&ensp;   3.可以用 for 循环进行遍历\
