@@ -180,5 +180,6 @@ while循环：
 &ensp;&ensp;&ensp;&ensp;   pop(要删除的位置)                删除，ret = lst.pop  给出被删除的索引，返回被删除的元素\
 &ensp;&ensp;&ensp;&ensp;   remove(要删除的内容)             删除某个元素（******）\
 &ensp;&ensp;&ensp;&ensp;   lst[要替换的位置] = "要替换的内容"   直接用索引就可以进行修改操作\
-&ensp;&ensp;&ensp;&ensp;   print(lst[要查询的位置])         直接用索引就可以操作\
+&ensp;&ensp;&ensp;&ensp;   print(lst[要查询的位置])         直接用索引就可以操作
+
 
