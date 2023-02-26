@@ -161,3 +161,24 @@ while循环：
 &ensp;&ensp;&ensp;&ensp;      .startswith("  ")判断开头的字符是否以****，.endswith 结尾是否\
 &ensp;&ensp;&ensp;&ensp;      .isdigit():      判断字符串是否有整数组成，.isdecimal小数
 
+ ___2023/02/26___\
+&ensp;主要学习了：\
+ ___&ensp;&ensp;1.列表的概念___\
+&ensp;&ensp;&ensp; 列表定义：能装东西的东西\
+&ensp;&ensp;&ensp; 在Python中用[]来表示一个列表，列表中的元素用,隔开
+
+&ensp;&ensp;特性：
+&ensp;&ensp;&ensp;&ensp;   1.列表页和字符串一样，也有索引和切片\
+&ensp;&ensp;&ensp;&ensp;   2.索引如果超出范围会报错\
+&ensp;&ensp;&ensp;&ensp;   3.可以用 for 循环进行遍历\
+&ensp;&ensp;&ensp;&ensp;   4.用len可以拿到列表的长度
+
+ ___&ensp;&ensp;2.列表(增删改查)___\
+&ensp;&ensp;&ensp;&ensp;   append()                        在列表最后面追加\
+&ensp;&ensp;&ensp;&ensp;   insert(位置，要插入的内容)        插入\
+&ensp;&ensp;&ensp;&ensp;   extend([ ])                     可以合并两个列表，批量添加\
+&ensp;&ensp;&ensp;&ensp;   pop(要删除的位置)                删除，ret = lst.pop  给出被删除的索引，返回被删除的元素\
+&ensp;&ensp;&ensp;&ensp;   remove(要删除的内容)             删除某个元素（******）\
+&ensp;&ensp;&ensp;&ensp;   lst[要替换的位置] = "要替换的内容"   直接用索引就可以进行修改操作\
+&ensp;&ensp;&ensp;&ensp;   print(lst[要查询的位置])         直接用索引就可以操作\
+
