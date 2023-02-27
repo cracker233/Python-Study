@@ -182,4 +182,9 @@ while循环：
 &ensp;&ensp;&ensp;&ensp;   lst[要替换的位置] = "要替换的内容"   直接用索引就可以进行修改操作\
 &ensp;&ensp;&ensp;&ensp;   print(lst[要查询的位置])         直接用索引就可以操作
 
+___2023/02/27___\
+&ensp;主要学习了：\
+ ___&ensp;&ensp;1.元组的概念___\
+ &ensp;&ensp;&ensp;&ensp;  tuple 元组， 特点:不可变的列表
+
 
